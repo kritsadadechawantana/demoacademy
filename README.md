@@ -6,5 +6,5 @@
 * Video
     * วิธีการติดตั้งโปรแกรมที่ต้องใช้ + อธิบายเบื้องต้น
 * Reference
-	* link ที่ใช้สำหรับติดตั้ง
+	* [วิธีติดตั้ง + link ที่ใช้สำหรับติดตั้ง](https://demoacademy.gitbook.io/project/~/edit/primary/installation)
     * App ตัวแรกบนมือถือของฉัน
