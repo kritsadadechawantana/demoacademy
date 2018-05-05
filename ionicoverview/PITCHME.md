@@ -1,8 +1,6 @@
 ### มารู้จัก Ionic กันเถอะ
 ![img](/imgs/ioniclogo.jpeg)
 ---
-![img](/imgs/browser.jpg)
----
 ![img](/imgs/mobile.png)
 ---
 ![img](/imgs/android-ios.jpg)
@@ -97,10 +95,6 @@ ionic serve
 [http://localhost:8100](http://localhost:8100)
 
 ---
-### เปิดในมือถือของฉัน
-
-![img](/imgs/ionic-devapp.png)
----
 ### Live demo
 
 ![img](/imgs/livedemo.png)
@@ -109,75 +103,7 @@ ionic serve
 
 ![img](/imgs/structure01.png)
 ---
-### Command line (1)
-
-![img](/imgs/commandline.jpg)
----
-### Command line (2)
-
-คำสั่งในการเปลี่ยนโฟเดอร์
-```
-cd [ตำแหน่งโฟเดอร์ที่ต้องการ]
-```
-
-ตัวอย่าง1: ทำการเข้าไปในโฟเดอร์ myApp
-```
-cd myApp
-```
-
-ตัวอย่าง2: ออกจากโฟเดอร์ที่กำลังอยู่
-```
-cd ..
-```
-
-คำสั่งในการดูรายชื่อไฟล์และโฟเดอร์ทั้งหมดในขณะนี้
-```
-dir
-```
----
-### Command line (3)
-
-คำสั่งในการเปลี่ยนไดร์ฟ  
-ตัวอย่างคือการย้ายไปไดร์ฟ e
-```
-e:
-```
-
-คำสั่งในการเคลียหน้าจอ
-```
-cls
-```
-
-คำสั่งในการยกเลิกการทำงานปัจจุบัน
-```
-Ctrl + c
-```
----
 ### Live demo
 
 ![img](/imgs/livedemo.png)
 ---
-### Game ชิงรางวัล
-
-จากครั้งก่อนที่เราสร้าง App ด้วยคำสั่งด้านล่าง ทำให้เรามี โครงสร้าง App เป็นดังนี้
-```
-ionic start myApp tabs
-```
-![img](/imgs/quiz-ionic-structure.png)
----
-### Ionic CLI
-
-```
-ionic start
-```
-
-![img](/imgs/livedemo.png)
-
----
-### C# Fundamentals
-
-[Saladpuk.com](https://www.youtube.com/playlist?list=PLUjAn8nwWnijERZ3HpzBk7NfSrau74_lQ)
-
-
-![img](/imgs/saladpuk-logo.png)
-### End
